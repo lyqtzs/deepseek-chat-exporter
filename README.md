@@ -9,7 +9,9 @@ DeepSeek Chat Exporter 导出插件，允许用户轻松导出会话内容，支
 👉 **立即免费安装**：  
 [https://chromewebstore.google.com/detail/deepseek-chat-exporter/cohbpcihoiahgokbjkgkecodljploimg](https://chromewebstore.google.com/detail/deepseek-chat-exporter/cohbpcihoiahgokbjkgkecodljploimg)  
 
+预览图：
 ![图片](https://github.com/user-attachments/assets/48bfc8f2-73ca-48b7-953c-88ed2380cc00)
+预览图
 
 ---
 
