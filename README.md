@@ -2,7 +2,7 @@
 
 **让知识永存：用Deepseek Chat Exporter轻松保存每一份对话价值**  
 
-使用DeepSeek Chat Exporter智能导出DeepSeek聊天对话，支持PDF、HTML、Markdown、JSON、TXT和Word等多种格式
+使用[DeepSeek Chat Exporter](https://chromewebstore.google.com/detail/deepseek-chat-exporter/cohbpcihoiahgokbjkgkecodljploimg)  智能导出DeepSeek聊天对话，支持PDF、HTML、Markdown、JSON、TXT和Word等多种格式
 
 DeepSeek Chat Exporter 导出插件，允许用户轻松导出会话内容，支持多种格式，包括 PDF、HTML、Markdown、JSON、TXT 和 Word，让你能够以最便捷的方式保存、分享和管理对话数据。
 
