@@ -1,5 +1,7 @@
 # Deepseek Chat Exporter - 一键导出DeepSeek聊天对话，支持PDF、HTML、Markdown、JSON、TXT和Word等多种格式
 
+🌐 切换语言：[English](README.md) | [简体中文](README.zh-CN.md)
+
 **让知识永存：用Deepseek Chat Exporter轻松保存每一份对话价值**  
 
 使用[DeepSeek Chat Exporter](https://chromewebstore.google.com/detail/deepseek-chat-exporter/cohbpcihoiahgokbjkgkecodljploimg)  智能导出DeepSeek聊天对话，支持PDF、HTML、Markdown、JSON、TXT和Word等多种格式
